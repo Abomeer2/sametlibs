@@ -1,6 +1,4 @@
--- made by samet 
--- retarded niggers
--- https://discord.gg/VhvTd5HV8d
+
 
 if getgenv().Library then 
     getgenv().Library:Unload()
